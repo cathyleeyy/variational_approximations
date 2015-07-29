@@ -1,5 +1,5 @@
-# Source code for article: 
 Streamlined mean field variational Bayes for longitudinal and multilevel data analysis
+==============
 
 A master R script, along with five user-written R functions, are included 
 to illustrate fast and memory-efficient Bayesian fitting of longitudinal 
@@ -10,12 +10,13 @@ and output files reside. It also contains a section that requires users
 to specify Boolean flags for the type of simulation studies.
 
 The following table summarises the files:
---------------------------------------------------------------------
-File name              Description 
---------------------------------------------------------------------
-mlevAppoxInference.R   Master R script
+| Name | Description          |
+| ------------- | ----------- |
+| mlevAppoxInference.R| Master R script|
 
-ZOSull.r               R function for obtaining Z matrix of O'Sullivan 
+
+1. mlevAppoxInference.R 
+2. ZOSull.r R function for obtaining Z matrix of O'Sullivan 
                        spline basis functions
 
 mlevMCMC.r             R function for obtaining Markov chain Monte Carlo
