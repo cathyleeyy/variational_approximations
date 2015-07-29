@@ -1,4 +1,4 @@
-Streamlined mean field variational Bayes for longitudinal and multilevel data analysis
+Streamlined mean field variational Bayes algorithms
 ==============
 
 A master R script, along with five user-written R functions, are included 
@@ -42,5 +42,9 @@ Other attached packages:
 [5] gdata_2.13.3     rstan_2.6.0   inline_0.3.14        Rcpp_0.11.5       
 [9] Matrix_1.2-0     magic_1.5-6   abind_1.4-0          MASS_7.3-40       
 
+The R files presented here have been created for the article:
 
+"Streamlined mean field variational Bayes for longitudinal and multilevel data",
+
+which can be found on http://matt-wand.utsacademics.info/LeeWand.pdf.
 
