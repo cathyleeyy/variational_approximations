@@ -1,17 +1,5 @@
-# Variational-approximations
-
-## ----------------------------------------------------------------------------
-##  Source code for article: 
-##
-##  Streamlined mean field variational Bayes for longitudinal and multilevel 
-##  data analysis
-##
-##  Authors: Cathy Y. Y. Lee and Matt P. Wand
-##        
-##  Submission to Biometrical Journal
-##
-##  Last updated: 29 JULY 2015
-## ----------------------------------------------------------------------------
+# Source code for article: 
+Streamlined mean field variational Bayes for longitudinal and multilevel data analysis
 
 A master R script, along with five user-written R functions, are included 
 to illustrate fast and memory-efficient Bayesian fitting of longitudinal 
@@ -20,7 +8,6 @@ variational Bayes approximations. The master script contains a setwd()
 command and this should point to the directory in which the R function 
 and output files reside. It also contains a section that requires users
 to specify Boolean flags for the type of simulation studies.
-
 
 The following table summarises the files:
 --------------------------------------------------------------------
@@ -62,11 +49,5 @@ Other attached packages:
 [5] gdata_2.13.3     rstan_2.6.0   inline_0.3.14        Rcpp_0.11.5       
 [9] Matrix_1.2-0     magic_1.5-6   abind_1.4-0          MASS_7.3-40       
 
-To reproduce the results presented in the article, simply run the master 
-file mlevAppoxInference.R. All figures will be stored in the Results 
-subfolder, except for the real data example. For any questions, comments 
-or remarks about the code, please contact:
 
-1. Cathy Yuen Yi Lee (Yuen.Y.Lee@student.uts.edu.au) 
-2. Professor Matt Wand (matt.wand@uts.edu.au) 
 
