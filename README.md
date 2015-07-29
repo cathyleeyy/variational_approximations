@@ -9,9 +9,10 @@ command and this should point to the directory in which the R function
 and output files reside. It also contains a section that requires users
 to specify Boolean flags for the type of simulation studies.
 
-The following table summarises the files:
+Summary of R files:
+-------------------
 
-mlevAppoxInference.R: Master R script
+**mlevAppoxInference.R**: Master R script
 
 **ZOSull.r**:         R function for obtaining Z matrix of O'Sullivan spline basis functions
 
