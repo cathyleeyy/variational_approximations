@@ -10,10 +10,11 @@ and output files reside. It also contains a section that requires users
 to specify Boolean flags for the type of simulation studies.
 
 The following table summarises the files:
-| Name | Description          |
-| ------------- | ----------- |
-| mlevAppoxInference.R| Master R script|
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 1. mlevAppoxInference.R 
 2. ZOSull.r R function for obtaining Z matrix of O'Sullivan 
