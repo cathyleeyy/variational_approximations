@@ -10,10 +10,11 @@ and output files reside. It also contains a section that requires users
 to specify Boolean flags for the type of simulation studies.
 
 The following table summarises the files:
+
 mlevAppoxInference.R: Master R script
 **ZOSull.r**:         R function for obtaining Z matrix of O'Sullivan spline basis functions
-mlevMCMC.r:           R function for obtaining Markov chain Monte Carlo
-                       samples 
+
+**mlevMCMC.r**:       R function for obtaining Markov chain Monte Carlo samples 
 
 mlevMFVB.r             R function for obtaining mean field variational 
                        Bayes estimates
