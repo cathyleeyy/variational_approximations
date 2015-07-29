@@ -51,8 +51,11 @@ http://matt-wand.utsacademics.info/LeeWand.pdf
 
 <div class="box">
 @article{Lee2015,
+
   title={Streamlined mean field variational Bayes for longitudinal and multilevel data analysis},
+  
   author={Lee, Cathy Y Y and Wand, Matt P},
+  
   year={2015}
 }
 </div>
