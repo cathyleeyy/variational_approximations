@@ -4,7 +4,7 @@
 ##               data analysis
 ## Authors :     Cathy Y. Y. Lee and Matt P. Wand
 ## Last updated: 29 JULY 2015
-## Purpose:      As described in BiomJ article
+## Purpose:      As described in http://matt-wand.utsacademics.info/LeeWand.pdf
 ## R Version:    3.2.0 (2015-04-16)                                                             
 ## Input data files:  ---                                                      
 ## Output data files: 2LevModAccRes_Gaussian.txt;  2LevModCovRes_Gaussian.txt
