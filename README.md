@@ -49,6 +49,10 @@ The underlying algorithms are based on the following paper (under revision in Bi
 
 http://matt-wand.utsacademics.info/LeeWand.pdf
 
+    <div class="box">
+        Foo Bar Baz
+    </div>
+    
 @article{Lee2015,
 
   title={Streamlined mean field variational Bayes for longitudinal and multilevel data analysis},
