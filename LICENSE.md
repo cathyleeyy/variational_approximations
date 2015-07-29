@@ -1,4 +1,4 @@
-Copyright (c) 2015, Cathy Yuen Yi lee
+Copyright (c) 2015, Cathy Yuen Yi Lee
 
 All rights reserved.
 
