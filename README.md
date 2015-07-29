@@ -42,9 +42,18 @@ Other attached packages:
 [5] gdata_2.13.3     rstan_2.6.0   inline_0.3.14        Rcpp_0.11.5       
 [9] Matrix_1.2-0     magic_1.5-6   abind_1.4-0          MASS_7.3-40       
 
-The R files presented here have been created for the article:
+Citation
+-----------
 
-"Streamlined mean field variational Bayes for longitudinal and multilevel data",
+The underlying algorithms are based on the following paper (under revision in Biometrical Journal)
 
-which can be found on http://matt-wand.utsacademics.info/LeeWand.pdf.
+http://matt-wand.utsacademics.info/LeeWand.pdf
+
+<div class="box">
+@article{Lee2015,
+  title={Streamlined mean field variational Bayes for longitudinal and multilevel data analysis},
+  author={Lee, Cathy Y Y and Wand, Matt P},
+  year={2015}
+}
+</div>
 
